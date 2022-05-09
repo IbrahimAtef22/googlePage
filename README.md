@@ -1,2 +1,2 @@
 # googlePage
-Simple google search page using HTML and CSS
+Simple google search page using HTML, CSS and Bootstrap
